@@ -1,0 +1,42 @@
+.header{
+	background-color: grey;
+	min-height: 100px;
+	font-size: 25px;
+	width: 100%;
+}
+
+.conainer{
+	overflow: hidden;
+}
+
+.general{
+	height: 400px;
+}
+
+#blog{
+	float: left;
+	background-color: teal;
+	width: 70%;
+	font-size: 16px;
+}
+
+#login{
+	float: right;
+	width: 30%;
+	font-size: 18px;
+	background-color: yellow;
+}
+
+#log{
+	font-size: 20px;
+}
+
+.foot{
+	clear: both;
+	min-height: 100px;
+	background-color: green;
+	width: 100%;
+	font-size: 16px;
+}
+	
+	
