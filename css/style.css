@@ -5,7 +5,7 @@
 	width: 100%;
 }
 
-.conainer{
+.container{
 	overflow: hidden;
 }
 
@@ -32,7 +32,7 @@
 }
 
 .foot{
-	clear: both;
+
 	min-height: 100px;
 	background-color: green;
 	width: 100%;
